@@ -26,7 +26,7 @@
 
 - name: create revealmd service
   ansible.builtin.import_role:
-    name: robertdebock.service
+    name: buluma.service
   vars:
     service_list:
       - name: revealmd
