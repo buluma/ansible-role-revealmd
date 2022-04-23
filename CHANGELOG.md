@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.1](https://github.com/buluma/ansible-role-revealmd/tree/0.1.1) (2022-04-23)
+
+[Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.1.0...0.1.1)
+
+**Implemented enhancements:**
+
+- Readme Update [\#1](https://github.com/buluma/ansible-role-revealmd/pull/1) ([buluma](https://github.com/buluma))
+
 ## [0.1.0](https://github.com/buluma/ansible-role-revealmd/tree/0.1.0) (2022-04-23)
 
 [Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/5267f179246efbd51396f60ac024dd073f8f2ebd...0.1.0)
