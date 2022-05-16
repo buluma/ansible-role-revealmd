@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-revealmd/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.1.1...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 4.0.6 to 4.0.7 [\#3](https://github.com/buluma/ansible-role-revealmd/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [0.1.1](https://github.com/buluma/ansible-role-revealmd/tree/0.1.1) (2022-04-23)
 
 [Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.1.0...0.1.1)
