@@ -28,5 +28,4 @@ galaxy_info:
     - npm
     - slides
 
-dependencies:
-  - buluma.npm
+dependencies: []
