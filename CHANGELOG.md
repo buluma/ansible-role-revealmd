@@ -2,7 +2,17 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-revealmd/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.1.1...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.1.2...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#11](https://github.com/buluma/ansible-role-revealmd/issues/11)
+- Update action [\#10](https://github.com/buluma/ansible-role-revealmd/issues/10)
+- rebuild action [\#9](https://github.com/buluma/ansible-role-revealmd/issues/9)
+
+## [0.1.2](https://github.com/buluma/ansible-role-revealmd/tree/0.1.2) (2023-12-25)
+
+[Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.1.1...0.1.2)
 
 **Merged pull requests:**
 
