@@ -34,6 +34,7 @@ The machine needs to be prepared. In CI this is done using [`molecule/default/pr
     - role: buluma.bootstrap
     - role: buluma.epel
     - role: buluma.git
+    - role: buluma.npm
 ```
 
 Also see a [full explanation and example](https://buluma.github.io/how-to-use-these-roles.html) on how to use these roles.
@@ -114,5 +115,3 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 [Shadow Walker](https://buluma.github.io/)
 
-
-Template inspired by [Robert de Bock](https://github.com/robertdebock)
