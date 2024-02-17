@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-revealmd/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump release-drafter/release-drafter from 5 to 6 [\#19](https://github.com/buluma/ansible-role-revealmd/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [0.2.0](https://github.com/buluma/ansible-role-revealmd/tree/0.2.0) (2024-01-20)
 
 [Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.1.3...0.2.0)
