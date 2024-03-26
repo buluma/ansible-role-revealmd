@@ -1,0 +1,17 @@
+digraph PhiloDilemma {
+  label = "Michael Buluma" ;
+  overlap=false
+  {
+    "revealmd" [fillcolor=yellow style=filled penwidth=3]
+    "buluma.bootstrap" [fillcolor=green style=filled]
+    "buluma.epel" [fillcolor=green style=filled]
+    "buluma.git" [fillcolor=green style=filled]
+    "buluma.npm" [fillcolor=green style=filled]
+    "buluma.service" [fillcolor=green style=filled]
+  }
+  "revealmd" -> "buluma.bootstrap"
+  "revealmd" -> "buluma.epel"
+  "revealmd" -> "buluma.git"
+  "revealmd" -> "buluma.npm"
+  "revealmd" -> "buluma.service"
+}
