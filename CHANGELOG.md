@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-revealmd/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/24.3.31...HEAD)
+
+**Merged pull requests:**
+
+- Bump docker/setup-buildx-action from 3 to 4 [\#26](https://github.com/buluma/ansible-role-revealmd/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-revealmd/tree/24.3.31) (2024-03-27)
 
 [Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.2.0...24.3.31)
