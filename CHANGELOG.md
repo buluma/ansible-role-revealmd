@@ -4,16 +4,13 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/24.3.31...26.6.0)
 
-**Merged pull requests:**
-
-- Bump docker/setup-buildx-action from 3 to 4 [\#26](https://github.com/buluma/ansible-role-revealmd/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
-
 ## [24.3.31](https://github.com/buluma/ansible-role-revealmd/tree/24.3.31) (2024-03-27)
 
 [Full Changelog](https://github.com/buluma/ansible-role-revealmd/compare/0.2.0...24.3.31)
 
 **Merged pull requests:**
 
+- Bump docker/setup-buildx-action from 3 to 4 [\#26](https://github.com/buluma/ansible-role-revealmd/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump dependabot/fetch-metadata from 1 to 2 [\#23](https://github.com/buluma/ansible-role-revealmd/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#22](https://github.com/buluma/ansible-role-revealmd/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#20](https://github.com/buluma/ansible-role-revealmd/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
