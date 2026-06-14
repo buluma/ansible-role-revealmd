@@ -39,5 +39,3 @@
     name: revealmd
     state: started
     enabled: true
-  tags:
-    - molecule-notest
